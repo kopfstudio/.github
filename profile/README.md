@@ -23,10 +23,11 @@ It is the result of clear architecture, disciplined execution, careful trade-off
 For business inquiries, technical partnerships, or selected software projects:
 
 <p>
-  <a href="https://www.linkedin.com/company/kopfstudio">
-    <img src="https://img.shields.io/badge/➤-%20Linkedin-111111?style=flat-square&logo=linkedin&logoColor=white&labelColor=111111&color=111111" alt="LinkedIn" />
+  <a href="mailto:contact@kopfstudio.com">
+    <img src="https://img.shields.io/badge/contact%40kopfstudio.com-111111?style=flat-square&logo=gmail&logoColor=white&labelColor=111111&color=111111" alt="Email — contact@kopfstudio.com" />
   </a>
 </p>
+
 
 ---
 
