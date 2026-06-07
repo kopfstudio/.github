@@ -1,57 +1,84 @@
-## Who We Are
+<p align="center">
+  <img src="./assets/kopf-studio-banner.png" alt="Kopf Studio — Stability is not accidental" width="100%" />
+</p>
 
-Kopf Studio is the technology partner ambitious companies choose when standard software is no longer enough.
+# Kopf Studio
 
-We design and build premium digital infrastructure: high-performance systems, robust backend architectures, intelligent automations, and custom platforms engineered to eliminate bottlenecks, improve execution, and create the foundation for sustainable scale.
+**Premium software engineering for ambitious companies.**
 
-Our work is guided by engineering discipline, operational clarity, and long-term thinking. We build software that is meant to perform in the real world — reliably, efficiently, and at scale.
+Kopf Studio is a technology studio focused on designing and building software infrastructure for companies that need more than conventional development.
 
+We work on backend-heavy platforms, internal systems, business automation, API architecture, third-party integrations, and operational tools built to perform reliably in real-world environments.
 
-## Core capabilities
+Our principle is simple:
 
-- Custom platform engineering
-- Backend systems and API architecture
-- Intelligent business automation
-- Internal systems and operational tooling
-- Complex third-party integrations
-- Scalable technical foundations
-- Strategic engineering execution
+> We believe stability is not accidental.
 
-## Engineering principles
+It is the result of clear architecture, disciplined execution, careful trade-offs, and software designed with long-term operation in mind.
 
-We build with a long-term mindset.
-
-Every system we design is expected to be:
-
-- **Reliable in production**
-- **Clear in architecture**
-- **Maintainable over time**
-- **Efficient in operation**
-- **Aligned with business goals**
-- **Capable of scaling with confidence**
-
-We value depth over hype, structure over improvisation, and quality over unnecessary complexity.
-
-## What sets us apart
-
-Kopf Studio combines technical precision with business understanding.
-
-We know companies do not need more software for the sake of software. They need better performance, smarter operations, and systems that support growth without creating fragility.
-
-That is what we build.
-
-## Ideal engagement areas
-
-We are especially suited for initiatives involving:
-
-- Backend-heavy products
-- Platform modernization
-- Process automation
-- Integration-heavy environments
-- Operational efficiency
-- Architecture hardening
-- Scalable internal tooling
+---
 
 ## Contact
 
-- LinkedIn: [Kopf Studio](https://www.linkedin.com/company/kopf33-studio)
+For business inquiries, technical partnerships, or selected software projects:
+
+<p>
+  <a href="https://www.linkedin.com/company/kopfstudio">
+    <img src="https://img.shields.io/badge/➤-%20Linkedin-111111?style=flat-square&logo=linkedin&logoColor=white&labelColor=111111&color=111111" alt="LinkedIn" />
+  </a>
+</p>
+
+---
+
+## What we build
+
+- Backend systems and API architecture
+- Custom business platforms
+- Internal tools and operational systems
+- Workflow automation
+- Third-party integrations
+- Data-driven business processes
+- System modernization
+- Scalable technical foundations
+
+---
+
+## How we think
+
+We believe software should make companies more stable, not more dependent on fragile processes.
+
+Every system we design is expected to be:
+
+- reliable in production
+- clear in architecture
+- maintainable over time
+- efficient to operate
+- aligned with business goals
+- prepared to scale with confidence
+
+We value structure over improvisation, depth over hype, and long-term quality over unnecessary complexity.
+
+---
+
+## Where we are strongest
+
+Kopf Studio is especially suited for projects involving:
+
+- backend-heavy products
+- automation of repetitive business operations
+- complex integrations between systems
+- internal platforms for teams and operations
+- modernization of legacy workflows
+- technical foundations for growing companies
+- systems that require reliability, clarity, and maintainability
+
+---
+
+<p align="center">
+  <img src="./assets/kopf-studio-logo.png" alt="Kopf Studio logo" width="72" />
+</p>
+
+<p align="center">
+  <strong>Kopf Studio</strong><br />
+  Stability is not accidental.
+</p>
