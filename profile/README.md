@@ -74,11 +74,11 @@ Kopf Studio is especially suited for projects involving:
 
 ---
 
-<p align="center">
+<p align="left">
   <img src="./assets/kopf-studio-logo.png" alt="Kopf Studio logo" width="72" />
 </p>
 
-<p align="center">
+<p align="left">
   <strong>Kopf Studio</strong><br />
   Stability is not accidental.
 </p>
