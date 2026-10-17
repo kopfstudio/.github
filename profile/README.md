@@ -1,85 +1,80 @@
 <p align="center">
-  <img src="./assets/kopf-studio-banner.png" alt="Kopf Studio — Stability is not accidental" width="100%" />
+  <img src="https://raw.githubusercontent.com/kopfstudio/.github/main/profile/assets/kopf-studio-banner.png" alt="Kopf Studio — Stability is not accidental" width="100%" />
 </p>
 
 # Kopf Studio
 
-**Premium software engineering for ambitious companies.**
+**Reliable integrations, internal tools, and operational automation.**
 
-Kopf Studio is a technology studio focused on designing and building software infrastructure for companies that need more than conventional development.
+Kopf Studio builds software for businesses whose teams spend too much time
+moving data between disconnected systems or managing repetitive work manually.
+We focus on clear API contracts, safe retries, operational visibility, and
+software that remains maintainable as the business grows.
 
-We work on backend-heavy platforms, internal systems, business automation, API architecture, third-party integrations, and operational tools built to perform reliably in real-world environments.
+## Who We Help
 
-Our principle is simple:
+Retailers, small e-commerce operations, and teams that need their sales,
+back-office, and operational systems to work together.
 
-> We believe stability is not accidental.
+Examples of problems we can help address:
 
-It is the result of clear architecture, disciplined execution, careful trade-offs, and software designed with long-term operation in mind.
+- **A fashion or cosmetics store** needs to bring marketplace and web-store
+  orders into one operational view, reducing manual copying between systems.
+- **A specialty retailer** needs orders synchronized with an ERP so staff can
+  track what was accepted, what failed, and what needs attention.
+- **A small e-commerce operation** needs a way to recover failed order syncs
+  without creating duplicate orders when a request is retried.
 
----
+These are illustrative scenarios, not client case studies or claims of existing
+platform integrations. Each project starts by checking the systems' APIs,
+constraints, and operational requirements.
 
-## Contact
+## What We Build
 
-For business inquiries, technical partnerships, or selected software projects:
+- Integrations between APIs, sales channels, and back-office systems
+- Internal tools for order handling, exceptions, and operational visibility
+- Workflow automation with explicit failure handling and safe recovery
+- Backend services and maintainable foundations for business applications
 
-<p>
-  <a href="mailto:contact@kopfstudio.com">
-    <img src="https://img.shields.io/badge/contact%40kopfstudio.com-111111?style=flat-square&logo=gmail&logoColor=white&labelColor=111111&color=111111" alt="Email — contact@kopfstudio.com" />
-  </a>
-</p>
+## Engineering Work
 
+### [GrantLedger](https://github.com/kopfstudio/grantledger)
 
----
+Multi-tenant SaaS billing infrastructure with a completed platform baseline,
+idempotent operations, replay-safe webhooks, asynchronous invoice processing,
+and observability. Includes a guided self-hosted demo and deployment validation tooling.
 
-## What we build
+### [Authentication API](https://github.com/gabedalmolin/auth-api-node)
 
-- Backend systems and API architecture
-- Custom business platforms
-- Internal tools and operational systems
-- Workflow automation
-- Third-party integrations
-- Data-driven business processes
-- System modernization
-- Scalable technical foundations
+A production-oriented service by
+[Gabriel Dalmolin](https://github.com/gabedalmolin), demonstrating session lifecycle
+management, refresh-token replay detection, rate limiting, and integration testing.
+Local setup and API documentation are available in the repository.
 
----
+### [Marketplace Sync API](https://github.com/gabedalmolin/marketplace-sync-api) — In Development
 
-## How we think
+Being developed toward a commercial demo of reliable order ingestion and external
+synchronization. Application and database foundations are implemented; webhook
+workflows, order endpoints, and external synchronization are still planned.
 
-We believe software should make companies more stable, not more dependent on fragile processes.
+### [Abaris](https://github.com/kopfstudio/abaris) — Research
 
-Every system we design is expected to be:
+Architectural work on reproducible vulnerability experiments and patch-behavior
+validation. Currently in the documentation and foundation phase, with no working
+CLI or supported execution backend.
 
-- reliable in production
-- clear in architecture
-- maintainable over time
-- efficient to operate
-- aligned with business goals
-- prepared to scale with confidence
+These repositories show engineering work and project status; they are not claims
+of customer deployments or hosted service availability.
 
-We value structure over improvisation, depth over hype, and long-term quality over unnecessary complexity.
+## Start a Conversation
 
----
-
-## Where we are strongest
-
-Kopf Studio is especially suited for projects involving:
-
-- backend-heavy products
-- automation of repetitive business operations
-- complex integrations between systems
-- internal platforms for teams and operations
-- modernization of legacy workflows
-- technical foundations for growing companies
-- systems that require reliability, clarity, and maintainability
-
----
+For a project inquiry, open a
+[GitHub issue](https://github.com/kopfstudio/.github/issues/new) with a brief
+outline of your workflow, the systems involved, and where manual work or failures
+occur. Issues are public; keep credentials and sensitive business data out of them.
 
 <p align="left">
-  <img src="./assets/kopf-studio-logo.png" alt="Kopf Studio logo" width="72" />
+  <img src="https://raw.githubusercontent.com/kopfstudio/.github/main/profile/assets/kopf-studio-logo.png" alt="Kopf Studio logo" width="72" />
 </p>
 
-<p align="left">
-  <strong>Kopf Studio</strong><br />
-  Stability is not accidental.
-</p>
+**Stability is not accidental.**
